@@ -767,4 +767,8 @@ export const overwrites: OverwritesForList = {
       },
     },
   },
+  0x9cd815a3b58e9d767b1b26e98faa567d9c257beb' : {
+   extensions: {
+     coingeckoId:  'SPIDEY',
+    
 }
